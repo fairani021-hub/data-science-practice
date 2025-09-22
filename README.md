@@ -1,48 +1,43 @@
-# 📊 Data Science Practice Repository
+# 📊 Data Science Portfolio
 
-Welcome to my **Data Science Practice Repository**!  
-This repository is a collection of projects and notebooks where I practice and showcase the **fundamentals of data science**.  
-
-The goal of this repo is to:
-- Build a solid foundation in **data analysis, visualization, and machine learning**.
-- Practice real-world workflows using datasets (starting with the **Titanic dataset**).
-- Document and share my learning journey as I grow my data science skills.
+This repository showcases my work in **data science, analytics, and machine learning**.  
+It contains well-documented Jupyter Notebooks that demonstrate my ability to **analyze data, extract insights, and build predictive models**.
 
 ---
 
-## 🔎 What’s Inside?
+## 🎯 Objectives
+- Apply **core data science techniques** on real datasets.
+- Perform **end-to-end analysis**: from raw data → insights → modeling.
+- Develop a structured workflow that highlights both **technical skills** and **business-oriented thinking**.
+- Build a portfolio that reflects my growth in **data science and applied machine learning**.
+
+---
+
+## 📂 Repository Contents
 - **Exploratory Data Analysis (EDA):**
-  - Univariate, bivariate, and multivariate analysis.
-  - Identifying missing values, outliers, and data imbalances.
-  - Insights and visualizations using libraries like Pandas, Matplotlib, and Seaborn.
+  - Statistical summaries and data distributions.
+  - Handling missing values, outliers, and skewed data.
+  - Visualizations for univariate, bivariate, and multivariate analysis.
 
 - **Data Preprocessing & Feature Engineering:**
-  - Handling missing values and outliers.
   - Encoding categorical variables.
-  - Feature scaling and transformation.
-  - Creating new features (e.g., family size, passenger titles in Titanic).
+  - Feature scaling and transformations.
+  - Creating new features to improve predictive power.
 
-- **Machine Learning Models:**
-  - Logistic Regression, Decision Trees, Random Forests, and more.
-  - Model evaluation using accuracy, precision, recall, F1-score, and ROC-AUC.
+- **Machine Learning:**
+  - Implementation of baseline and advanced models (Logistic Regression, Random Forest, Gradient Boosting, etc.).
+  - Model evaluation using multiple metrics (Accuracy, Precision, Recall, F1-score, ROC-AUC).
+  - Comparison of models and selection of the best-performing pipeline.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Core Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Environment:** Jupyter Notebook  
 
 ---
 
 ## 📌 Notes
-This repository is for **learning and practice purposes**.  
-As I continue my journey, I’ll add more projects, datasets, and advanced techniques.
-
----
-
-## 🚀 Next Steps
-- Add more datasets and perform end-to-end analysis.
-- Experiment with different machine learning algorithms.
-- Build interactive dashboards and visualizations.
-- Continue refining documentation and insights.
+This repository is designed to serve as a **portfolio of practical data science projects**.  
+Each notebook demonstrates a complete workflow with **clear explanations, visualizations, and conclusions**, making it easy for others (recruiters, collaborators, or peers) to follow.
